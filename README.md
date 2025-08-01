@@ -126,9 +126,28 @@ HydraSense Automation is a smart home automation project that **automatically mo
 
 ---
 
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).  
+# ⚡ Happy Automating with HydraSense! ⚡
 
 ---
 
-# ⚡ Happy Automating with HydraSense! ⚡
+## 📜 License
+
+This project is released under a Modified MIT License.
+It is intended for personal and non-commercial use only.
+
+🚫 Commercial use or distribution for profit is not permitted without prior written permission.
+🤝 For collaboration, reuse, or licensing inquiries, please contact the author.
+
+📄 View Full License <br>
+[![License: MIT–NC](https://img.shields.io/badge/license-MIT--NC-blue.svg)](./LICENSE)
+
+---
+
+## ❤️ Acknowledgements
+
+This is a solo passion project, built with countless nights of tinkering, testing, and debugging.  
+If you find it useful or inspiring, feel free to ⭐ the repository or connect with me on social media!
+
+---
+
+> _“If the mind can create, the hands can translate.”_ – Hashtag
